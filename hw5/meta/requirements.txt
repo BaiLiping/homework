@@ -1,9 +1,13 @@
 mujoco-py==1.50.1.56
 gym==0.10.5
-tensorflow==1.10.0
-numpy==1.14.5
+tensorflow==2.11.1
+numpy==1.22.2
 scipy==1.1.0
 tensorflow-probability==0.3.0
 seaborn
 Box2D==2.3.2
 wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=2.3.8 # not directly required, pinned by Snyk to avoid a vulnerability
