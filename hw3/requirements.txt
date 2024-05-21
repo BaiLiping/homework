@@ -6,3 +6,4 @@ tensorflow
 numpy
 seaborn
 opencv-python
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
